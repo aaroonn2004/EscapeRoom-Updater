@@ -1,3 +1,12 @@
+;s;Versión 0.0.3
+ 
+- Panel de depuración (F3) con datos de CPU, GPU, RAM y más
+- Nuevo manejo de vehículos: derrapes, freno de mano y aceleración realista
+- Colisiones entre coches con física de cuerpo rígido
+- Mayor durabilidad de los coches
+- La actualización se instala en la carpeta del juego y se verifica con SHA-1
+ 
+ 
 ;s;Versión 0.0.2
  
 - Corrección de errores generales
